@@ -26,7 +26,7 @@
         <configuration> 
           <auth>
           <client>${azure.client}</client>
-          <tenant>0c508b0d-c4b2-4a38-93c7-5947fb5a5656</tenant>
+          <tenant>replacetenant</tenant>
           <key>${azure.key}</key>
           <environment>azure</environment>
           </auth>
